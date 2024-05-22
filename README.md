@@ -1,5 +1,5 @@
 # Tourism_Portal
-The web application is developed based on booking tour packages.
+The web application is developed based on viewing and booking tour packages.
 
 Front-end:
 HTML
